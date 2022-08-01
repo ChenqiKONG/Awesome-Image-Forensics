@@ -20,3 +20,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection](https://ieeexplore.ieee.org/abstract/document/9789576)|2022|T-PAMI|Boundary&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
 |[Image Manipulation Detection by Multi-View Multi-Scale Supervision](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.html)|2021|ICCV|Boundary&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
+|[SPAN: Spatial pyramid attention network for image manipulation localization](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_19#main-content)|2020|ECCV|-|-|-|-|
+|[Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/7007)|2020|AAAI|-|-|-|-|
+|[Constrained R-CNN: A general image manipulation detection model](https://ieeexplore.ieee.org/abstract/document/9102825)|2020|ICME|-|-|-|-|
+|[CAT-Net: Compression artifact tracing network for detection and localization of image splicing](https://openaccess.thecvf.com/content/WACV2021/html/Kwon_CAT-Net_Compression_Artifact_Tracing_Network_for_Detection_and_Localization_of_WACV_2021_paper.html)|2020|WACV|-|-|-|-|
