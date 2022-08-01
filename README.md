@@ -19,3 +19,4 @@
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection](https://ieeexplore.ieee.org/abstract/document/9789576)|2022|T-PAMI|Boundary&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
+|[Image Manipulation Detection by Multi-View Multi-Scale Supervision](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.html)|2021|ICCV|Boundary&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
