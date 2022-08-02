@@ -32,4 +32,4 @@
 |[Mantra-net: Manipulation tracing network for detection and localization of image forgeries with anomalous features](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_ManTra-Net_Manipulation_Tracing_Network_for_Detection_and_Localization_of_Image_CVPR_2019_paper.html)|2019|CVPR|-|-|-|-|
 |[Localization of Deep Inpainting Using High-Pass Fully Convolutional Network](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_Localization_of_Deep_Inpainting_Using_High-Pass_Fully_Convolutional_Network_ICCV_2019_paper.html)|2019|ICCV|-|-|-|-|
 |[Learning rich features for image manipulation detection](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Learning_Rich_Features_CVPR_2018_paper.html)|2018|CVPR|-|-|-|-|
-|[Image splicing localization using a multi-task fully convolutional network (MFCN)](https://www.sciencedirect.com/science/article/pii/S1047320318300178)|2017|VCIR|-|-|-|-|
+|[Image splicing localization using a multi-task fully convolutional network (MFCN)](https://www.sciencedirect.com/science/article/pii/S1047320318300178)|2017|VCIR|RGB|Y|-|-|
