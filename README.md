@@ -21,7 +21,7 @@ Please feel free to pull requests or open an issue to add papers.
 # Manipulation-Detection-And-Localization-Methods
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection](https://ieeexplore.ieee.org/abstract/document/9789576)|2022|T-PAMI|RGB&Boundary&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
+|[MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection](https://ieeexplore.ieee.org/abstract/document/9789576)|2022|T-PAMI|RGB&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
 |[Robust Image Forgery Detection Against Transmission Over Online Social Networks](https://ieeexplore.ieee.org/abstract/document/9686650)|2022|T-IFS|RGB|Y|N|[github](https://github.com/HighwayWu/ImageForensicsOSN)|
 |[PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](https://ieeexplore.ieee.org/abstract/document/9819903)|2022|T-CSVT|RGB|Y|Y|[github](https://github.com/proteus1991/PSCC-Net)|
 |[Objectformer for image manipulation detection and localization](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ObjectFormer_for_Image_Manipulation_Detection_and_Localization_CVPR_2022_paper.html)|2022|CVPR|RGB&Frequency|Y|Y|-|
