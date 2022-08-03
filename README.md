@@ -1,4 +1,7 @@
 # Awesome-Image-Forensics
+A curated list of image forensics works (including image manipulation dataset, image manipulation detection, image manipulation localization, etc.) and related resources. This is inspired by [Awesome-FAS](https://github.com/RizhaoCai/Awesome-FAS), [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [Awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [Awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [Awesome-NAS](https://github.com/D-X-Y/Awesome-AutoDL) and [Awesome-Pruing](https://github.com/he-y/Awesome-Pruning)
+
+Please feel free to pull requests or open an issue to add papers.
 
 # Contents
 - [Databases](#databases)
