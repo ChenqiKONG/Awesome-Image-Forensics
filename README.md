@@ -21,6 +21,8 @@ Please feel free to pull requests or open an issue to add papers.
 # Manipulation-Detection-And-Localization-Methods
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[A Principled Design of Image Representation: Towards Forensic Tasks](https://ieeexplore.ieee.org/document/9881995)|2022|T-PAMI|RGB&DIR|Y|N|[github](https://github.com/ShurenQi/DIR)|
+|[Towards JPEG-resistant Image Forgery Detection and Localization via Self-supervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/9904872)|2022|T-PAMI|RGB&Noise|Y|Y|-|
 |[MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection](https://ieeexplore.ieee.org/abstract/document/9789576)|2022|T-PAMI|RGB&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
 |[Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization](https://link.springer.com/article/10.1007/s11263-022-01617-5)|2022|IJCV|RGB&Noise|Y|N|[github](https://github.com/mjkwon2021/CAT-Net)|
 |[Robust Image Forgery Detection Against Transmission Over Online Social Networks](https://ieeexplore.ieee.org/abstract/document/9686650)|2022|T-IFS|RGB|Y|N|[github](https://github.com/HighwayWu/ImageForensicsOSN)|
@@ -28,6 +30,7 @@ Please feel free to pull requests or open an issue to add papers.
 |[Objectformer for image manipulation detection and localization](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ObjectFormer_for_Image_Manipulation_Detection_and_Localization_CVPR_2022_paper.html)|2022|CVPR|RGB&Frequency|Y|Y|-|
 |[Robust Image Forgery Detection Over Online Social Network Shared Images](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.html)|2022|CVPR|RGB|Y|N|[github](https://github.com/HighwayWu/ImageForensicsOSN)|
 |[Image Manipulation Detection by Multi-View Multi-Scale Supervision](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.html)|2021|ICCV|RGB&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
+|[TransForensics: Image Forgery Localization with Dense Self-Attention](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_TransForensics_Image_Forgery_Localization_With_Dense_Self-Attention_ICCV_2021_paper.html)|2021|ICCV|RGB|Y|N|-|
 |[CAT-Net: Compression artifact tracing network for detection and localization of image splicing](https://openaccess.thecvf.com/content/WACV2021/html/Kwon_CAT-Net_Compression_Artifact_Tracing_Network_for_Detection_and_Localization_of_WACV_2021_paper.html)|2021|WACV|RGB&Noise|Y|N|[github](https://github.com/mjkwon2021/CAT-Net)|
 |[SPAN: Spatial pyramid attention network for image manipulation localization](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_19#main-content)|2020|ECCV|RGB&Noise|Y|N|[github](https://github.com/ZhiHanZ/IRIS0-SPAN/tree/d8e4241f151ef2f40eacbb970fe5e3f531c6a4b4)|
 |[Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/7007)|2020|AAAI|RGB|Y|N|[github](https://github.com/pengzhou1108/GSRNet)|
