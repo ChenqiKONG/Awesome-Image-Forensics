@@ -19,6 +19,7 @@ Please feel free to pull requests or open an issue to add papers.
 |[IMD2020](https://openaccess.thecvf.com/content_WACVW_2020/html/w4/Novozamsky_IMD2020_A_Large-Scale_Annotated_Dataset_Tailored_for_Detecting_Manipulated_Images_WACVW_2020_paper.html)|2020|WACVW|[link](http://staff.utia.cas.cz/novozada/db/)|404|2010|-|-|-|
 
 # Manipulation-Detection-And-Localization-Methods
+## Year 2022
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[Image manipulation detection by multiple tampering traces and edge artifact enhancemen](https://www.sciencedirect.com/science/article/pii/S0031320322005064)|2023|Pattern Recognition|RGB&Noise|Y|N|-|
@@ -31,8 +32,14 @@ Please feel free to pull requests or open an issue to add papers.
 |[PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](https://ieeexplore.ieee.org/abstract/document/9819903)|2022|T-CSVT|RGB|Y|Y|[github](https://github.com/proteus1991/PSCC-Net)|
 |[Objectformer for image manipulation detection and localization](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ObjectFormer_for_Image_Manipulation_Detection_and_Localization_CVPR_2022_paper.html)|2022|CVPR|RGB&Frequency|Y|Y|-|
 |[Robust Image Forgery Detection Over Online Social Network Shared Images](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.html)|2022|CVPR|RGB|Y|N|[github](https://github.com/HighwayWu/ImageForensicsOSN)|
+|[JPEG Compression-aware Image Forgery Localization](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)|2022|MM|RGB|Y|N|-|
+|[Generic Image Manipulation Localization through the Lens of Multi-scale Spatial Inconsistence](https://dl.acm.org/doi/abs/10.1145/3503161.3548100)|2022|MM|RGB&Boundary|Y|N|-|
 |[ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection](https://dl.acm.org/doi/full/10.1145/3506853)|2022|TOMM|RGB|Y|N|[github](https://github.com/tampered816/tool)|
 |[Learning to localize image forgery using end-to-end attention network](https://www.sciencedirect.com/science/article/pii/S0925231222011274)|2022|Neurocomputing|RGB&Frequency|Y|N|[github](https://github.com/sadaf-ali/-Learning-to-Localize-Image-Forgery-Using-End-to-End-Attention-Network)|
+
+## Year 2021
+| Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[Image Splicing Detection, Localization and Attribution via JPEG Primary Quantization Matrix Estimation and Clustering](https://ieeexplore.ieee.org/abstract/document/9622213)|2021|T-IFS|RGB|Y|Y|-|
 |[Image Tampering Localization Using a Dense Fully Convolutional Network](https://ieeexplore.ieee.org/abstract/document/9393396)|2021|T-IFS|RGB|Y|N|[github](https://github.com/ZhuangPeiyu/Dense-FCN-for-tampering-localization/tree/4940eb341832940834ecde76a1c7482a786932fe)|
 |[Multi-Task SE-Network for Image Splicing Localization](https://ieeexplore.ieee.org/abstract/document/9591639)|2021|T-CSVT|RGB|Y|N|[github](https://github.com/YulansZhang/Multi-task-SE-Network-for-Image-Splicing-Localization)|
@@ -41,6 +48,10 @@ Please feel free to pull requests or open an issue to add papers.
 |[TransForensics: Image Forgery Localization with Dense Self-Attention](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_TransForensics_Image_Forgery_Localization_With_Dense_Self-Attention_ICCV_2021_paper.html)|2021|ICCV|RGB|Y|N|-|
 |[CAT-Net: Compression artifact tracing network for detection and localization of image splicing](https://openaccess.thecvf.com/content/WACV2021/html/Kwon_CAT-Net_Compression_Artifact_Tracing_Network_for_Detection_and_Localization_of_WACV_2021_paper.html)|2021|WACV|RGB&Noise|Y|N|[github](https://github.com/mjkwon2021/CAT-Net)|
 |[SPAN: Spatial pyramid attention network for image manipulation localization](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_19#main-content)|2020|ECCV|RGB&Noise|Y|N|[github](https://github.com/ZhiHanZ/IRIS0-SPAN/tree/d8e4241f151ef2f40eacbb970fe5e3f531c6a4b4)|
+
+## Year 2017-2020
+| Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/7007)|2020|AAAI|RGB|Y|N|[github](https://github.com/pengzhou1108/GSRNet)|
 |[Constrained R-CNN: A general image manipulation detection model](https://ieeexplore.ieee.org/abstract/document/9102825)|2020|ICME|Noise|Y|N|[github](https://github.com/HuizhouLi/Constrained-R-CNN)|
 |[Hybrid lstm and encoder–decoder architecture for detection of image forgeries](https://ieeexplore.ieee.org/abstract/document/8626149)|2019|T-IP|RGB|Y|N|[github](https://github.com/jawadbappy/forgery_localization_HLED)|
