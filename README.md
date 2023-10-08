@@ -22,6 +22,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Year 2023
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning]()|2023|ICCV|RGB|Y|N|[github](https://github.com/Knightzjz/NCL-IML)|
 |[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/abs/2310.00234)|2023|ArXiv|RGB|Y|Y|-|
 |[Image manipulation detection by multiple tampering traces and edge artifact enhancemen](https://www.sciencedirect.com/science/article/pii/S0031320322005064)|2023|Pattern Recognition|RGB&Noise|Y|N|-|
 
