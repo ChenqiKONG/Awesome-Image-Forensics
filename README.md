@@ -20,7 +20,7 @@ Please feel free to pull requests or open an issue to add papers.
 |[COVER](https://ieeexplore.ieee.org/abstract/document/7532339)|2016|ICIP|[github](https://github.com/wenbihan/coverage)|100|100|100|0|0|
 |[WildWeb](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=7169839)|2015|ICMEW|[link](https://mklab.iti.gr/results/the-wild-web-tampered-image-dataset/)|99|9657|0|9657|0|
 |[CASIAv1](https://ieeexplore.ieee.org/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia1groundtruth)|800|920|459|461|0|
-|[IFC](https://signalprocessingsociety.org/newsletter/2013/06/ifs-tc-image-forensics-challenge)|2013|IFC-TC|[link](Contact the author)|1050|450|-|-|-|
+|[IFC](https://signalprocessingsociety.org/newsletter/2013/06/ifs-tc-image-forensics-challenge)|2013|IFC-TC|[link]|1050|450|-|-|-|
 |[CASIAv2](https://ieeexplore.ieee.org/abstract/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia2groundtruth)|7491|5123|3295|1828|0|
 |[Columbia](https://ieeexplore.ieee.org/abstract/document/4036658)|2006|ICME|[link](https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/)|183|180|0|180|0|
 
