@@ -75,3 +75,5 @@ Please feel free to pull requests or open an issue to add papers.
 |[Learning rich features for image manipulation detection](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Learning_Rich_Features_CVPR_2018_paper.html)|2018|CVPR|RGB&Noise|Y|N|[github](https://github.com/minyoungg/selfconsistency)|
 |[Fighting Fake News: Image Splice Detection via Learned Self-Consistency](https://openaccess.thecvf.com/content_ECCV_2018/html/Jacob_Huh_Fighting_Fake_News_ECCV_2018_paper.html)|2018|ECCV|RGB|Y|N|[github](https://github.com/LarryJiang134/Image_manipulation_detection)|
 |[Image splicing localization using a multi-task fully convolutional network (MFCN)](https://www.sciencedirect.com/science/article/pii/S1047320318300178)|2017|VCIR|RGB|Y|N|-|
+
+------------------------------------------------
