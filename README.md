@@ -19,10 +19,16 @@ Please feel free to pull requests or open an issue to add papers.
 |[IMD2020](https://openaccess.thecvf.com/content_WACVW_2020/html/w4/Novozamsky_IMD2020_A_Large-Scale_Annotated_Dataset_Tailored_for_Detecting_Manipulated_Images_WACVW_2020_paper.html)|2020|WACVW|[link](http://staff.utia.cas.cz/novozada/db/)|404|2010|-|-|-|
 
 # Manipulation-Detection-And-Localization-Methods
+## Year 2023
+| Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/abs/2310.00234)|2023|ArXiv|RGB|Y|Y|-|
+|[Image manipulation detection by multiple tampering traces and edge artifact enhancemen](https://www.sciencedirect.com/science/article/pii/S0031320322005064)|2023|Pattern Recognition|RGB&Noise|Y|N|-|
+
+
 ## Year 2022
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[Image manipulation detection by multiple tampering traces and edge artifact enhancemen](https://www.sciencedirect.com/science/article/pii/S0031320322005064)|2023|Pattern Recognition|RGB&Noise|Y|N|-|
 |[A Principled Design of Image Representation: Towards Forensic Tasks](https://ieeexplore.ieee.org/document/9881995)|2022|T-PAMI|RGB&DIR|Y|N|[github](https://github.com/ShurenQi/DIR)|
 |[Towards JPEG-resistant Image Forgery Detection and Localization via Self-supervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/9904872)|2022|T-PAMI|RGB&Noise|Y|Y|-|
 |[MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection](https://ieeexplore.ieee.org/abstract/document/9789576)|2022|T-PAMI|RGB&Noise|Y|Y|[github](https://github.com/dong03/MVSS-Net/tree/359ac66528d1231e542ac5b562303019e4d51832)|
