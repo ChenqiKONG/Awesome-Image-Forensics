@@ -28,6 +28,7 @@ Please feel free to pull requests or open an issue to add papers.
 |[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/abs/2310.00234)|2023|ArXiv|RGB|Y|Y|-|
 |[Explicit Visual Prompting for Low-Level Structure Segmentations](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)|2023|CVPR|RGB&Frequency|Y|Y|[github](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)|
 |[Edge-aware Regional Message Passing Controller for Image Forgery Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.html)|2023|CVPR|RGB&Noise|Y|N|-|
+|[TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization](https://openaccess.thecvf.com/content/CVPR2023/html/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.html)|2023|CVPR|RGB&Noise|Y|Y|[github](https://grip-unina.github.io/TruFor/)|
 |[Image manipulation detection by multiple tampering traces and edge artifact enhancemen](https://www.sciencedirect.com/science/article/pii/S0031320322005064)|2023|Pattern Recognition|RGB&Noise|Y|N|-|
 
 
