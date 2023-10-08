@@ -10,13 +10,23 @@ Please feel free to pull requests or open an issue to add papers.
 # Databases
 |  Name   | Release year | Venue | Download | #Pristine | #Manipulated | #Copy-move | #Splicing | #Inpainting  | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[Columbia](https://ieeexplore.ieee.org/abstract/document/4036658)|2006|ICME|[link](https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/)|183|180|0|180|0|
-|[CASIAv1](https://ieeexplore.ieee.org/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia1groundtruth)|800|920|459|461|0|
-|[CASIAv2](https://ieeexplore.ieee.org/abstract/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia2groundtruth)|7491|5123|3295|1828|0|
-|[COVER](https://ieeexplore.ieee.org/abstract/document/7532339)|2016|ICIP|[github](https://github.com/wenbihan/coverage)|100|100|100|0|0|
-|[NIST2016](https://www.nist.gov/system/files/documents/2017/09/07/nc2017evaluationplan_20170804.pdf)|2016|OpenMFC|[link](https://www.nist.gov/itl/iad/mig/nimble-challenge-2017-evaluation)|0|564|68|288|208|
-|[DEFACTO](https://ieeexplore.ieee.org/abstract/document/8903181)|2019|EUSIPCO|[github](https://defactodataset.github.io/)|0|149k|19k|105k|25k|
+|[AutoSplice](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf)|2023|CVPRW|[link](https://github.com/shanface33/AutoSplice_Dataset)|2273|3621|0|3621|0|
 |[IMD2020](https://openaccess.thecvf.com/content_WACVW_2020/html/w4/Novozamsky_IMD2020_A_Large-Scale_Annotated_Dataset_Tailored_for_Detecting_Manipulated_Images_WACVW_2020_paper.html)|2020|WACVW|[link](http://staff.utia.cas.cz/novozada/db/)|404|2010|-|-|-|
+|[DEFACTO](https://ieeexplore.ieee.org/abstract/document/8903181)|2019|EUSIPCO|[github](https://defactodataset.github.io/)|0|149k|19k|105k|25k|
+|[In-the-Wild](https://openaccess.thecvf.com/content_ECCV_2018/html/Jacob_Huh_Fighting_Fake_News_ECCV_2018_paper.html)|2018|ECCV|[github](https://github.com/minyoungg/selfconsistency)|0|201|0|201|0|
+|[Korus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823898)|2016|WIFS|[github]()|220|220|-|-|-|
+|[Carvalho]()|2016|IEEE TIFS|[github]()|100|100|0|100|0|
+|[NIST2016](https://www.nist.gov/system/files/documents/2017/09/07/nc2017evaluationplan_20170804.pdf)|2016|OpenMFC|[link](https://www.nist.gov/itl/iad/mig/nimble-challenge-2017-evaluation)|0|564|68|288|208|
+|[COVER](https://ieeexplore.ieee.org/abstract/document/7532339)|2016|ICIP|[github](https://github.com/wenbihan/coverage)|100|100|100|0|0|
+|[WildWeb]()|2015|ICMEW|[github]()|99|9657|0|9657|0|
+|[CASIAv1](https://ieeexplore.ieee.org/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia1groundtruth)|800|920|459|461|0|
+|[IFC]()|2013|IFC-TC|[github]()|1050|450|-|-|-|
+|[CASIAv2](https://ieeexplore.ieee.org/abstract/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia2groundtruth)|7491|5123|3295|1828|0|
+|[Columbia](https://ieeexplore.ieee.org/abstract/document/4036658)|2006|ICME|[link](https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/)|183|180|0|180|0|
+
+
+
+
 
 # Manipulation-Detection-And-Localization-Methods
 ## Year 2023
@@ -25,7 +35,9 @@ Please feel free to pull requests or open an issue to add papers.
 |[Uncertainty-guided Learning for Improving Image Manipulation Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Uncertainty-guided_Learning_for_Improving_Image_Manipulation_Detection_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|-|
 |[SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|Y|-|
 |[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|[github](https://github.com/Knightzjz/NCL-IML)|
-|[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/abs/2310.00234)|2023|ArXiv|RGB|Y|Y|-|
+|[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/abs/2310.00234)|2023|ArXiv|RGB&Boundary|Y|Y|-|
+|[Learning to Immunize Images for Tamper Localization and Self-Recovery](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10209264)|2023|T-PAMI|RGB|Y|N|-|
+|[Transformer-Based Image Inpainting Detection via Label Decoupling and Constrained Adversarial Training](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10196329)|2023|T-CSVT|RGB&Boundary|Y|N|-|
 |[Explicit Visual Prompting for Low-Level Structure Segmentations](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)|2023|CVPR|RGB&Frequency|Y|Y|[github](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)|
 |[Edge-aware Regional Message Passing Controller for Image Forgery Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.html)|2023|CVPR|RGB&Noise|Y|N|-|
 |[TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization](https://openaccess.thecvf.com/content/CVPR2023/html/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.html)|2023|CVPR|RGB&Noise|Y|Y|[github](https://grip-unina.github.io/TruFor/)|
@@ -46,6 +58,7 @@ Please feel free to pull requests or open an issue to add papers.
 |[Robust Image Forgery Detection Over Online Social Network Shared Images](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.html)|2022|CVPR|RGB|Y|N|[github](https://github.com/HighwayWu/ImageForensicsOSN)|
 |[JPEG Compression-aware Image Forgery Localization](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)|2022|MM|RGB|Y|N|-|
 |[Generic Image Manipulation Localization through the Lens of Multi-scale Spatial Inconsistence](https://dl.acm.org/doi/abs/10.1145/3503161.3548100)|2022|MM|RGB&Boundary|Y|N|-|
+|[JPEG Compression-aware Image Forgery Localization](https://dl.acm.org/doi/abs/10.1145/3503161.3547749?casa_token=r3ZYpHHKq8UAAAAA:4W2rpO7bj0WBThqH46HG5sx4u19zEK8oo93EyhN_sRkdJAz2PTdNg8VPdHeEkkubtOcY4but5yjErg)|2022|MM|RGB&Boundary|Y|N|-|
 |[ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection](https://dl.acm.org/doi/full/10.1145/3506853)|2022|TOMM|RGB|Y|N|[github](https://github.com/tampered816/tool)|
 |[Learning to localize image forgery using end-to-end attention network](https://www.sciencedirect.com/science/article/pii/S0925231222011274)|2022|Neurocomputing|RGB&Frequency|Y|N|[github](https://github.com/sadaf-ali/-Learning-to-Localize-Image-Forgery-Using-End-to-End-Attention-Network)|
 
