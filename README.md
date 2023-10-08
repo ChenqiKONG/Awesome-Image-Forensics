@@ -77,3 +77,13 @@ Please feel free to pull requests or open an issue to add papers.
 |[Image splicing localization using a multi-task fully convolutional network (MFCN)](https://www.sciencedirect.com/science/article/pii/S1047320318300178)|2017|VCIR|RGB|Y|N|-|
 
 ------------------------------------------------
+If you feel useful about this repo, we would be happy you are also interested in our works and use our papers your work's reference.
+```
+@article{kong2023pixel,
+  title={Pixel-Inconsistency Modeling for Image Manipulation Localization},
+  author={Kong, Chenqi and Luo, Anwei and Wang, Shiqi and Li, Haoliang and Rocha, Anderson and Kot, Alex C},
+  journal={arXiv preprint arXiv:2310.00234},
+  year={2023}
+}
+ ```
+
