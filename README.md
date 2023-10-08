@@ -22,6 +22,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Year 2023
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|Y|-|
 |[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|[github](https://github.com/Knightzjz/NCL-IML)|
 |[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/abs/2310.00234)|2023|ArXiv|RGB|Y|Y|-|
 |[Image manipulation detection by multiple tampering traces and edge artifact enhancemen](https://www.sciencedirect.com/science/article/pii/S0031320322005064)|2023|Pattern Recognition|RGB&Noise|Y|N|-|
