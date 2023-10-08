@@ -14,13 +14,13 @@ Please feel free to pull requests or open an issue to add papers.
 |[IMD2020](https://openaccess.thecvf.com/content_WACVW_2020/html/w4/Novozamsky_IMD2020_A_Large-Scale_Annotated_Dataset_Tailored_for_Detecting_Manipulated_Images_WACVW_2020_paper.html)|2020|WACVW|[link](http://staff.utia.cas.cz/novozada/db/)|404|2010|-|-|-|
 |[DEFACTO](https://ieeexplore.ieee.org/abstract/document/8903181)|2019|EUSIPCO|[github](https://defactodataset.github.io/)|0|149k|19k|105k|25k|
 |[In-the-Wild](https://openaccess.thecvf.com/content_ECCV_2018/html/Jacob_Huh_Fighting_Fake_News_ECCV_2018_paper.html)|2018|ECCV|[github](https://github.com/minyoungg/selfconsistency)|0|201|0|201|0|
-|[Korus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823898)|2016|WIFS|[github]()|220|220|-|-|-|
-|[Carvalho]()|2016|IEEE TIFS|[github]()|100|100|0|100|0|
+|[Korus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823898)|2016|WIFS|[github](https://pkorus.pl/downloads/dataset-realistic-tampering)|220|220|-|-|-|
+|[Carvalho](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=7349174)|2016|IEEE TIFS|[link](https://recodbr.wordpress.com/code-n-data/#dso1_dsi1)|100|100|0|100|0|
 |[NIST2016](https://www.nist.gov/system/files/documents/2017/09/07/nc2017evaluationplan_20170804.pdf)|2016|OpenMFC|[link](https://www.nist.gov/itl/iad/mig/nimble-challenge-2017-evaluation)|0|564|68|288|208|
 |[COVER](https://ieeexplore.ieee.org/abstract/document/7532339)|2016|ICIP|[github](https://github.com/wenbihan/coverage)|100|100|100|0|0|
-|[WildWeb]()|2015|ICMEW|[github]()|99|9657|0|9657|0|
+|[WildWeb](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=7169839)|2015|ICMEW|[link](https://mklab.iti.gr/results/the-wild-web-tampered-image-dataset/)|99|9657|0|9657|0|
 |[CASIAv1](https://ieeexplore.ieee.org/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia1groundtruth)|800|920|459|461|0|
-|[IFC]()|2013|IFC-TC|[github]()|1050|450|-|-|-|
+|[IFC](https://signalprocessingsociety.org/newsletter/2013/06/ifs-tc-image-forensics-challenge)|2013|IFC-TC|[link](Contact the author)|1050|450|-|-|-|
 |[CASIAv2](https://ieeexplore.ieee.org/abstract/document/6625374)|2013|ChinaSIP|[github](https://github.com/namtpham/casia2groundtruth)|7491|5123|3295|1828|0|
 |[Columbia](https://ieeexplore.ieee.org/abstract/document/4036658)|2006|ICME|[link](https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/)|183|180|0|180|0|
 
