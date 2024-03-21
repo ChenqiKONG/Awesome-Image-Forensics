@@ -29,6 +29,14 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 # Manipulation-Detection-And-Localization-Methods
+## Year 2024
+| Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Prompt Augmentation for Self-supervised Text-guided Image Manipulation|2024|CVPR|-|-|-|-|
+|DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization|2024|CVPR|-|-|-|-|
+|UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization|2024|CVPR|-|-|-|-|
+|Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods|2024|CVPR|-|-|-|-|
+
 ## Year 2023
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
