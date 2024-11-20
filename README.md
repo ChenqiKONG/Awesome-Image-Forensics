@@ -45,6 +45,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Year 2023
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|[github](https://github.com/Knightzjz/NCL-IML)|
 |[Uncertainty-guided Learning for Improving Image Manipulation Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Uncertainty-guided_Learning_for_Improving_Image_Manipulation_Detection_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|-|
 |[SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|Y|-|
 |[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|[github](https://github.com/Knightzjz/NCL-IML)|
