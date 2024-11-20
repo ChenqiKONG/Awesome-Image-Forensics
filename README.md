@@ -34,7 +34,11 @@ Please feel free to pull requests or open an issue to add papers.
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |HDF-Net: Capturing Homogeny Difference Features to Localize the Tampered Image|2024|T-PAMI|RGB&Noise|Y|N|[github](https://github.com/ruidonghan/HDF-Net/)|
 |Employing Reinforcement Learning to Construct a Decision-Making Environment for Image Forgery Localization|2024|T-IFS|RGB|Y|N|[github](https://github.com/LMIAPC/AdaIFL)|
+|Attentive and Contrastive Image Manipulation Localization With Boundary Guidance|2024|T-IFS|RGB&Boundary|Y|N||
+|IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization|2024|NIPS B&D|RGB|Y|Y|[github](https://github.com/scu-zjz/IMDLBenCo)|
 |AdaIFL: Adaptive Image Forgery Localization via a Dynamic and Importance-aware Transformer Network|2024|ECCV|RGB|Y|N|[github](https://github.com/LMIAPC/AdaIFL)|
+|Multi-view Feature Extraction via Tunable Prompts is Enough for Image Manipulation Localization|2024|ACM MM|RGB&HF|Y|N||
+|Noise-assisted Prompt Learning for Image Forgery Detection and Localization|2024|ECCV|RGB&Noise|Y|Y|[github](https://github.com/LMIAPC/AdaIFL)|
 |EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection|2024|CVPR|RGB|Y|N|-|
 |Prompt Augmentation for Self-supervised Text-guided Image Manipulation|2024|CVPR|RGB&Text|Y|N|-|
 |DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization|2024|CVPR|RGB&Boundary|Y|Y|-|
