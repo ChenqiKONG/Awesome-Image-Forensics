@@ -32,10 +32,12 @@ Please feel free to pull requests or open an issue to add papers.
 ## Year 2024
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Prompt Augmentation for Self-supervised Text-guided Image Manipulation|2024|CVPR|-|-|-|-|
-|DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization|2024|CVPR|-|-|-|-|
-|UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization|2024|CVPR|-|-|-|-|
-|Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods|2024|CVPR|-|-|-|-|
+|AdaIFL: Adaptive Image Forgery Localization via a Dynamic and Importance-aware Transformer Network|2024|ECCV|RGB|Y|N|[github](https://github.com/LMIAPC/AdaIFL)|
+|Prompt Augmentation for Self-supervised Text-guided Image Manipulation|2024|CVPR|RGB&Text|Y|N|-|
+|DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization|2024|CVPR|RGB&Boundary|Y|Y|-|
+|UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization|2024|CVPR|RGB&Noise|Y|Y|-|
+|Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods|2024|CVPR|RGB|Y|N|[github](https://github.com/qcf-568/MIML)|
+|MaLP: Manipulation Localization Using a Proactive Scheme|2024|CVPR|RGB|Y|Y|[github](https://github.com/vishal3477/pro_loc)|
 
 ## Year 2023
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
