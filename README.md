@@ -32,7 +32,10 @@ Please feel free to pull requests or open an issue to add papers.
 ## Year 2024
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|HDF-Net: Capturing Homogeny Difference Features to Localize the Tampered Image|2024|T-PAMI|RGB&Noise|Y|N|[github](https://github.com/ruidonghan/HDF-Net/)|
+|Employing Reinforcement Learning to Construct a Decision-Making Environment for Image Forgery Localization|2024|T-IFS|RGB|Y|N|[github](https://github.com/LMIAPC/AdaIFL)|
 |AdaIFL: Adaptive Image Forgery Localization via a Dynamic and Importance-aware Transformer Network|2024|ECCV|RGB|Y|N|[github](https://github.com/LMIAPC/AdaIFL)|
+|EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection|2024|CVPR|RGB|Y|N|-|
 |Prompt Augmentation for Self-supervised Text-guided Image Manipulation|2024|CVPR|RGB&Text|Y|N|-|
 |DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization|2024|CVPR|RGB&Boundary|Y|Y|-|
 |UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization|2024|CVPR|RGB&Noise|Y|Y|-|
@@ -51,6 +54,7 @@ Please feel free to pull requests or open an issue to add papers.
 |[Explicit Visual Prompting for Low-Level Structure Segmentations](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)|2023|CVPR|RGB&Frequency|Y|Y|[github](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)|
 |[Edge-aware Regional Message Passing Controller for Image Forgery Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.html)|2023|CVPR|RGB&Noise|Y|N|-|
 |[TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization](https://openaccess.thecvf.com/content/CVPR2023/html/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.html)|2023|CVPR|RGB&Noise|Y|Y|[github](https://grip-unina.github.io/TruFor/)|
+|[Hierarchical Fine-Grained Image Forgery Detection and Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.html)|2023|CVPR|RGB|Y|N|[github](https://github.com/CHELSEA234/HiFi_IFDL)|
 |[Image manipulation detection by multiple tampering traces and edge artifact enhancemen](https://www.sciencedirect.com/science/article/pii/S0031320322005064)|2023|Pattern Recognition|RGB&Noise|Y|N|-|
 
 
