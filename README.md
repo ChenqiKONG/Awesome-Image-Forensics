@@ -29,6 +29,12 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 # Manipulation-Detection-And-Localization-Methods
+## Year 2025
+| Title                                       | Release year | Venue |   Modality    | Pixel-level | Image-level | Code | 
+|:--------------------------------------------|:------------:|:-----:|:-------------:|:--------:|:--------:|:--------:|
+| [SAFIRE: Segment Any Forged Image Region](https://arxiv.org/abs/2412.08197) |     2025     | AAAI  | RGB&Frequency |Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
+
+
 ## Year 2024
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
