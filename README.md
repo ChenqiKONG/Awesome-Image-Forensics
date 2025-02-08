@@ -120,8 +120,8 @@ If you feel useful about this repo, we would be happy you are also interested in
 @article{kong2023pixel,
   title={Pixel-Inconsistency Modeling for Image Manipulation Localization},
   author={Kong, Chenqi and Luo, Anwei and Wang, Shiqi and Li, Haoliang and Rocha, Anderson and Kot, Alex C},
-  journal={arXiv preprint arXiv:2310.00234},
-  year={2023}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025}
 }
  ```
 
