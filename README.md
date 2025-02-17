@@ -32,6 +32,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Year 2025
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/pdf/2310.00234)|2025|T-PAMI|RGB&Boundary|Y|Y|[github](https://github.com/ChenqiKONG/PIM/)|
 |SAFIRE: Segment Any Forged Image Region|2025|AAAI|RGB&Prompt|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
 
 ## Year 2024
@@ -58,7 +59,6 @@ Please feel free to pull requests or open an issue to add papers.
 |[Uncertainty-guided Learning for Improving Image Manipulation Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Uncertainty-guided_Learning_for_Improving_Image_Manipulation_Detection_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|-|
 |[SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|Y|-|
 |[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)|2023|ICCV|RGB|Y|N|[github](https://github.com/Knightzjz/NCL-IML)|
-|[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/abs/2310.00234)|2023|ArXiv|RGB&Boundary|Y|Y|-|
 |[Learning to Immunize Images for Tamper Localization and Self-Recovery](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10209264)|2023|T-PAMI|RGB|Y|N|-|
 |[Transformer-Based Image Inpainting Detection via Label Decoupling and Constrained Adversarial Training](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10196329)|2023|T-CSVT|RGB&Boundary|Y|N|-|
 |[Explicit Visual Prompting for Low-Level Structure Segmentations](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)|2023|CVPR|RGB&Frequency|Y|Y|[github](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)|
