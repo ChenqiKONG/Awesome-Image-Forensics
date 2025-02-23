@@ -32,7 +32,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Year 2025
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/pdf/2310.00234)|2025|TPAMI|RGB&Boundary|Y|Y|[github](https://github.com/ChenqiKONG/PIM/)|
+|[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/pdf/2310.00234)|2025|T-PAMI|RGB&Boundary|Y|Y|[github](https://github.com/ChenqiKONG/PIM/)|
 |[Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10884895)|2025|T-IFS|RGB|Y|N|[github](https://github.com/multimediaFor/MPC)|
 |[Dense Feature Interaction Network for Image Inpainting Localization](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10844910)|2025|T-IFS|RGB|Y|N|[github](https://github.com/Boombb/DeFI-Net%5FInpainting)|
 |[SAFIRE: Segment Any Forged Image Region](https://arxiv.org/pdf/2412.08197)|2025|AAAI|RGB&Prompt|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
