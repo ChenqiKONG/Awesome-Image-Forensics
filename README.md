@@ -36,14 +36,14 @@ Please feel free to pull requests or open an issue to add papers.
 |[Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10884895)|2025|T-IFS|RGB|Y|N|[github](https://github.com/multimediaFor/MPC)|
 |[Dense Feature Interaction Network for Image Inpainting Localization](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10844910)|2025|T-IFS|RGB|Y|N|[github](https://github.com/Boombb/DeFI-Net%5FInpainting)|
 |[SAFIRE: Segment Any Forged Image Region](https://arxiv.org/pdf/2412.08197)|2025|AAAI|RGB&Prompt|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
-|[Exploring multi-scale forgery clues for stereo super-resolution image forgery localization]()|2025|PR|xxx|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
-|[PIM-Net: Progressive Inconsistency Mining Network for image manipulation localization]()|2025|PR|xxx|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
-|[UFG-Net: Uncertainty and Frequency Guided Network for Image Forgery Localization, Neurocomputing]()|2025|Neurocomputing|xxx|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
+|[Exploring multi-scale forgery clues for stereo super-resolution image forgery localization](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0031320324009816?via%3Dihub)|2025|PR|RGB|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
+|[PIM-Net: Progressive Inconsistency Mining Network for image manipulation localization](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0031320324008872?via%3Dihub)|2025|PR|RGB|Y|N||
+|[UFG-Net: Uncertainty and Frequency Guided Network for Image Forgery Localization, Neurocomputing](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0925231225001432?via%3Dihub)|2025|Neurocomputing|RGB&Freq|Y|N||
 
 ## Year 2024
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|DiRLoc: Disentanglement Representation Learning for Robust Image Forgery Localization|2024|T-DSC|xxx|Y|N|[github](https://github.com/ruidonghan/HDF-Net/)|
+|DiRLoc: Disentanglement Representation Learning for Robust Image Forgery Localization|2024|T-DSC|RGB&JPEF|Y|N||
 |HDF-Net: Capturing Homogeny Difference Features to Localize the Tampered Image|2024|T-PAMI|RGB&Noise|Y|N|[github](https://github.com/ruidonghan/HDF-Net/)|
 |Employing Reinforcement Learning to Construct a Decision-Making Environment for Image Forgery Localization|2024|T-IFS|RGB|Y|N|[github](https://github.com/LMIAPC/AdaIFL)|
 |Attentive and Contrastive Image Manipulation Localization With Boundary Guidance|2024|T-IFS|RGB&Boundary|Y|N||
