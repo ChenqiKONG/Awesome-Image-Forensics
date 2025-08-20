@@ -33,6 +33,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://arxiv.org/pdf/2310.00234)|2025|T-PAMI|RGB&Boundary|Y|Y|[github](https://github.com/ChenqiKONG/PIM/)|
+|[Revisiting Tampered Scene Text Detection in the Era of Generative AI](https://arxiv.org/pdf/2407.21422)|2025|AAAI|Scene Text|N|Y|[github](https://github.com/qcf-568/OSTF/)|
 |[SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model](https://arxiv.org/pdf/2412.04292)|2025|CVPR|RGB(LVLM)|Y|Y|[github](https://hzlsaber.github.io/projects/SIDA/)|
 |[OmniGuard: Hybrid Manipulation Localization via Augmented Versatile Deep Image Watermarking](https://arxiv.org/pdf/2412.01615)|2025|CVPR|Watermark|Y|N||
 |[Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=10884895)|2025|T-IFS|RGB|Y|N|[github](https://github.com/multimediaFor/MPC)|
