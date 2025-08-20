@@ -46,9 +46,11 @@ Please feel free to pull requests or open an issue to add papers.
 |[MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder](https://ojs.aaai.org/index.php/AAAI/article/view/32606)|2025|AAAI|RGB|Y|N|[github](https://github.com/MrHuan3/MUN)|
 |[Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Effcient Image Manipulation Localization through Sparse-Coding Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/32754)|2025|AAAI|RGB|Y|N|[github](https://github.com/scu-zjz/SparseViT)|
 |[Mesoscopic Insights: Orchestrating Multi-Scale & Hybrid Architecture for Image Manipulation Localization](https://ojs.aaai.org/index.php/AAAI/article/view/33198)|2025|AAAI|RGB&Frequency|Y|N|[github](https://github.com/scu-zjz/Mesorch)|
+|[FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models](https://arxiv.org/abs/2410.02761)|2025|ICLR|LVLM|Y|Y|[github](https://github.com/zhipeixu/FakeShield?tab=readme-ov-file)|
 |[Exploring multi-scale forgery clues for stereo super-resolution image forgery localization](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0031320324009816?via%3Dihub)|2025|PR|RGB|Y|N|[github](https://github.com/mjkwon2021/SAFIRE)|
 |[PIM-Net: Progressive Inconsistency Mining Network for image manipulation localization](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0031320324008872?via%3Dihub)|2025|PR|RGB|Y|N||
 |[UFG-Net: Uncertainty and Frequency Guided Network for Image Forgery Localization, Neurocomputing](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0925231225001432?via%3Dihub)|2025|Neurocomputing|RGB&Freq|Y|N||
+
 
 ## Year 2024
 | Title | Release year | Venue | Modality | Pixel-level | Image-level | Code | 
