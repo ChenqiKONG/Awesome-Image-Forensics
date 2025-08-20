@@ -10,7 +10,9 @@ Please feel free to pull requests or open an issue to add papers.
 # Databases
 |  Name   | Release year | Venue | Download | #Pristine | #Manipulated | #Copy-move | #Splicing | #Inpainting  | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[RealDTT](https://link.springer.com/article/10.1007/s11263-025-02515-2)|2025|IJCV|[link](https://github.com/edmundhaohao/RealDTT)|0|399592|-|-|-|
 |[AutoSplice](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf)|2023|CVPRW|[link](https://github.com/shanface33/AutoSplice_Dataset)|2273|3621|0|3621|0|
+|[DocTamper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Towards_Robust_Tampered_Text_Detection_in_Document_Image_New_Dataset_CVPR_2023_paper.pdf)|2023|CVPR|[link](https://github.com/qcf-568/DocTamper)|0|170000|-|-|-|
 |[IMD2020](https://openaccess.thecvf.com/content_WACVW_2020/html/w4/Novozamsky_IMD2020_A_Large-Scale_Annotated_Dataset_Tailored_for_Detecting_Manipulated_Images_WACVW_2020_paper.html)|2020|WACVW|[link](http://staff.utia.cas.cz/novozada/db/)|404|2010|-|-|-|
 |[DEFACTO](https://ieeexplore.ieee.org/abstract/document/8903181)|2019|EUSIPCO|[github](https://defactodataset.github.io/)|0|149k|19k|105k|25k|
 |[In-the-Wild](https://openaccess.thecvf.com/content_ECCV_2018/html/Jacob_Huh_Fighting_Fake_News_ECCV_2018_paper.html)|2018|ECCV|[github](https://github.com/minyoungg/selfconsistency)|0|201|0|201|0|
